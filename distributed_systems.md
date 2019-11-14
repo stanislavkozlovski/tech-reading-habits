@@ -23,13 +23,21 @@ https://the-paper-trail.org/blog/consensus-protocols-paxos/
 
 [] - http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf
 
-[] - http://research.microsoft.com/en-us/projects/dryad/eurosys07.pdf
+
 
 
 # What I've read
 
-Kafka: The Definitive Guide
-Designing Data-Intensive Applications
-[Cloud Computing Concepts, Part 2 — University of Illinois, Coursera](https://www.coursera.org/account/accomplishments/records/VQRPNPMFUN4N)
-[Cloud Computing Concepts, Part 1 — University of Illinois, Coursera](https://www.coursera.org/account/accomplishments/records/ZBQDYSZ4YDGD)
+14/11/2019 {
+  [X] - http://research.microsoft.com/en-us/projects/dryad/eurosys07.pdf
+}
+
+- Kafka: The Definitive Guide
+
+- Designing Data-Intensive Applications
+
+- [Cloud Computing Concepts, Part 2 — University of Illinois, Coursera](https://www.coursera.org/account/accomplishments/records/VQRPNPMFUN4N)
+
+- [Cloud Computing Concepts, Part 1 — University of Illinois, Coursera](https://www.coursera.org/account/accomplishments/records/ZBQDYSZ4YDGD)
+
 - some other stuff I can't remember
